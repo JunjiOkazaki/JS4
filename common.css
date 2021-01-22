@@ -1,0 +1,28 @@
+.title {
+    margin-left: 140px;
+}
+
+.guide {
+    margin-left: 140px;
+}
+
+.slider {
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 80%;
+}
+
+.slider img {
+    height: auto;
+    width: 660px;
+}
+/*slick setting*/
+.slick-prev:before,
+.slick-next:before {
+    color: #000;
+}
+
+#wrap {
+    height: 400px;
+    width: 900px;
+}
